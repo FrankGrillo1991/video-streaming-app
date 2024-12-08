@@ -69,3 +69,7 @@ nav {
     overflow-y: auto;
     z-index: 1;
 }
+
+#side-bar-section>div {
+    margin-bottom: 30px;
+}
