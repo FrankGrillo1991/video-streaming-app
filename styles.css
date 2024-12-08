@@ -214,3 +214,10 @@ i {
     margin-bottom: 5px;
 }
 
+.channel-name {
+    color: rgb(99, 95, 94);
+    text-decoration: none;
+    display: block;
+    margin-top: 5px;
+}
+
