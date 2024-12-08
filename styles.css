@@ -200,3 +200,10 @@ i {
     object-fit: cover;
 }
 
+.video-details {
+    width: 200px;
+    margin-top: 3px;
+    margin-left: 10px;
+    justify-self: flex-end;
+}
+
