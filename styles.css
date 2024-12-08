@@ -126,3 +126,8 @@ nav {
     font-weight: bold;
 }
 
+.fa-clock,
+.fa-thumbs-up {
+    color: rgb(99, 95, 94);
+}
+
