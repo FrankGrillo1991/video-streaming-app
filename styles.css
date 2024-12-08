@@ -28,3 +28,7 @@ nav {
 #youtube-logo-container {
     margin-left: 75px;
 }
+
+#youtube-logo {
+    width: 100px;
+}
