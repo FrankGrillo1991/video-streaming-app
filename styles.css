@@ -224,3 +224,8 @@ i {
 .channel-name:hover {
     color: rgb(53, 50, 49);
 }
+
+.views {
+    color: rgb(99, 95, 94);
+    text-decoration: none;
+}
