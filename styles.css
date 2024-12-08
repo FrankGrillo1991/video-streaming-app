@@ -92,3 +92,12 @@ nav {
     padding-left: 20px;
     height: 25px;
 }
+
+#active-title {
+    background: rgba(188, 195, 204, 0.5);
+    height: 40px;
+    display: flex;
+    margin-bottom: 20px;
+    left: 0%;
+    align-items: center;
+}
