@@ -142,3 +142,11 @@ i {
     padding-left: 20px;
     margin-bottom: 20px;
 }
+
+.channel-dp-container-1 {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    justify-self: flex-start;
+}
