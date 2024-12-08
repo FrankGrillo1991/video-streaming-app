@@ -241,3 +241,9 @@ i {
     color: rgb(99, 95, 94);
 }
 
+footer p {
+    text-align: right;
+    color: rgb(99, 95, 94);
+    margin-right: 20px;
+}
+
