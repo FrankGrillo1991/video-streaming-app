@@ -118,3 +118,11 @@ nav {
     top: 5%;
     left: 35%;
 }
+
+.active {
+    position: absolute;
+    top: auto;
+    left: 35%;
+    font-weight: bold;
+}
+
