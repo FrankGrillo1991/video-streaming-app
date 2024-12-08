@@ -49,3 +49,7 @@ nav {
     justify-self: flex-end;
     margin-right: 5px;
 }
+
+.fas {
+    font-size: 20px;
+}
