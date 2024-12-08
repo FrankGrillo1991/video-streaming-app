@@ -180,3 +180,8 @@ i {
     margin-bottom: 5px;
 }
 
+.video-description {
+    display: flex;
+    flex-direction: row;
+}
+
