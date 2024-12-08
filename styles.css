@@ -236,3 +236,8 @@ i {
     transform: translateY(-3px);
 }
 
+.time {
+    text-decoration: none;
+    color: rgb(99, 95, 94);
+}
+
