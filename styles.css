@@ -221,3 +221,6 @@ i {
     margin-top: 5px;
 }
 
+.channel-name:hover {
+    color: rgb(53, 50, 49);
+}
