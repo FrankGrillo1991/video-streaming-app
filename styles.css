@@ -158,3 +158,14 @@ i {
     position: relative;
 }
 
+#video-section {
+    margin: 20px 5px 0 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 255px;
+    margin-top: 60px;
+    padding-top: 20px;
+}
+
