@@ -109,3 +109,12 @@ nav {
 #home-icon {
     color: red;
 }
+
+.side-bar-titles {
+    text-decoration: none;
+    color: rgb(53, 50, 49);
+    font-size: 15px;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+}
