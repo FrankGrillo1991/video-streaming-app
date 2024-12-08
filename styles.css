@@ -229,3 +229,10 @@ i {
     color: rgb(99, 95, 94);
     text-decoration: none;
 }
+
+.fa-circle {
+    color: rgb(99, 95, 94);
+    font-size: 2px;
+    transform: translateY(-3px);
+}
+
