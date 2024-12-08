@@ -32,3 +32,12 @@ nav {
 #youtube-logo {
     width: 100px;
 }
+
+#search-bar {
+    justify-self: center;
+    width: 38vw;
+    margin-top: 15px;
+    height: 25px;
+    padding: 2px;
+    padding-left: 5px;
+}
