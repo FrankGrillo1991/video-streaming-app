@@ -207,3 +207,10 @@ i {
     justify-self: flex-end;
 }
 
+.video-title {
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 5px;
+}
+
