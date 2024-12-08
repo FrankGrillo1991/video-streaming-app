@@ -73,3 +73,12 @@ nav {
 #side-bar-section>div {
     margin-bottom: 30px;
 }
+
+.side-bar {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0;
+    padding-left: 0;
+    width: 250px;
+    box-sizing: border-box;
+}
