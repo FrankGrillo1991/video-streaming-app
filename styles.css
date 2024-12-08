@@ -185,3 +185,11 @@ i {
     flex-direction: row;
 }
 
+.channel-dp-container-2 {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    justify-self: flex-start;
+}
+
