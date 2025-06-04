@@ -25,13 +25,10 @@ nav {
     z-index: 2;
 }
 
-#youtube-logo-container {
-    margin-left: 75px;
+.logo {
+  background-image: url('assets/images/vidbox-logo.png');
 }
 
-#youtube-logo {
-    width: 100px;
-}
 
 #search-bar {
     justify-self: center;
