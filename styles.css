@@ -25,9 +25,11 @@ nav {
     z-index: 2;
 }
 
-.logo {
-  background-image: url('assets/images/vidbox-logo.png');
+.navbar-logo {
+  height: 40px; /* Adjust this value as needed */
+  width: auto; /* Ensures the aspect ratio is maintained */
 }
+
 
 
 #search-bar {
