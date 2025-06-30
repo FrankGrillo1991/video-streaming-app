@@ -1,1 +1,1 @@
-YouTube Clone developed with HTML & CSS
+VidBox is a video streaming app developed with HTML & CSS
