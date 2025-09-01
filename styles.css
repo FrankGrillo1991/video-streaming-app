@@ -58,24 +58,6 @@ footer .footer-links a:focus {
     box-shadow: 0 2px 8px rgba(0,0,0,0.10);
     outline: none;
 }
-footer a {
-    color: #ffffff;
-    text-decoration: none;
-    margin: 0 12px;
-    padding: 6px 10px;
-    border-radius: 4px;
-    transition: background 0.2s, color 0.2s;
-    font-weight: 500;
-    font-size: 1rem;
-}
-
-footer a:hover,
-footer a:focus {
-    background: #2d2d2d;
-    color: #ffd700;
-    text-decoration: underline;
-    outline: none;
-}
 
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
 
@@ -325,24 +307,6 @@ footer p {
     margin-right: 20px;
 }
 
-footer a {
-  color: #ffffff;
-  text-decoration: none;
-  margin: 0 12px;
-  padding: 6px 10px;
-  border-radius: 4px;
-  transition: background 0.2s, color 0.2s;
-  font-weight: 500;
-  font-size: 1rem;
-}
-
-footer a:hover,
-footer a:focus {
-  background: #2d2d2d;
-  color: #ffd700;
-  text-decoration: underline;
-  outline: none;
-}
 
 @media all and (max-width: 255px) {
     .video-description {
