@@ -396,7 +396,7 @@ footer p {
         margin-bottom: 0;
     }
     footer .footer-links a {
-        width: 90%;
+        width: 100%;
         box-sizing: border-box;
         display: block !important;
         margin: 0;
