@@ -1,3 +1,10 @@
+@media (max-width: 600px) {
+    footer .footer-links a {
+        word-break: break-word;
+        white-space: normal;
+        overflow-wrap: anywhere;
+    }
+}
 /* Navbar and Logo Layout */
 nav.navbar {
     display: flex;
