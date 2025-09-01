@@ -355,8 +355,8 @@ footer p {
 @media (max-width: 600px) {
     footer .footer-links {
         flex-direction: column !important;
-        align-items: center;
-        gap: 10px;
+        align-items: stretch;
+        gap: 0;
     }
     footer .footer-links li {
         display: block !important;
@@ -371,6 +371,8 @@ footer p {
         width: 100%;
         box-sizing: border-box;
         display: block !important;
+        margin: 0;
+        border-radius: 0;
     }
 }
 
