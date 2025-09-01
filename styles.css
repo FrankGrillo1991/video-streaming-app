@@ -353,9 +353,13 @@ footer p {
     align-items: center;
     gap: 10px;
   }
-  footer .footer-links li {
-    display: block;
-    width: 100%;
-    text-align: center;
-  }
+    footer .footer-links li {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    footer .footer-links li:last-child {
+        margin-bottom: 0;
+    }
 }
