@@ -1,3 +1,21 @@
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 12px;
+    padding: 6px 10px;
+    border-radius: 4px;
+    transition: background 0.2s, color 0.2s;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+footer a:hover,
+footer a:focus {
+    background: #2d2d2d;
+    color: #ffd700;
+    text-decoration: underline;
+    outline: none;
+}
 import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
 
 * {
@@ -244,6 +262,25 @@ footer p {
     text-align: right;
     color: rgb(99, 95, 94);
     margin-right: 20px;
+}
+
+footer a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 12px;
+  padding: 6px 10px;
+  border-radius: 4px;
+  transition: background 0.2s, color 0.2s;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+footer a:hover,
+footer a:focus {
+  background: #2d2d2d;
+  color: #ffd700;
+  text-decoration: underline;
+  outline: none;
 }
 
 @media all and (max-width: 255px) {
