@@ -1,3 +1,36 @@
+footer .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 18px 0 0 0;
+}
+
+footer .footer-links li {
+    display: inline-block;
+}
+
+footer .footer-links a {
+    color: #ffd700;
+    background: transparent;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+    box-shadow: none;
+}
+
+footer .footer-links a:hover,
+footer .footer-links a:focus {
+    background: #222;
+    color: #fff;
+    text-decoration: underline;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    outline: none;
+}
 footer a {
     color: #ffffff;
     text-decoration: none;
