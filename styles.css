@@ -1,3 +1,15 @@
+footer .footer-description {
+    color: #e0e0e0;
+    font-size: 0.98rem;
+    text-align: center;
+    margin: 18px 0 0 0;
+    line-height: 1.6;
+    letter-spacing: 0.01em;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.92;
+}
 footer .footer-links {
     display: flex;
     justify-content: center;
