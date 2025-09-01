@@ -16,7 +16,8 @@ footer a:focus {
     text-decoration: underline;
     outline: none;
 }
-import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
 
 * {
     font-family: "Roboto", sans-serif;
