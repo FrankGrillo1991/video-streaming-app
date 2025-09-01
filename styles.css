@@ -1,3 +1,17 @@
+@media (max-width: 900px) and (min-width: 601px) {
+    footer .footer-links {
+        gap: 14px;
+        padding: 0 10px;
+    }
+    footer .footer-links a {
+        font-size: 0.98rem;
+        padding: 6px 12px;
+    }
+    footer .footer-description {
+        font-size: 0.95rem;
+        padding: 0 10px;
+    }
+}
 @media (max-width: 600px) {
     footer .footer-links {
         flex-direction: column;
@@ -362,4 +376,19 @@ footer p {
     footer .footer-links li:last-child {
         margin-bottom: 0;
     }
+}
+
+@media (max-width: 900px) and (min-width: 601px) {
+  footer .footer-links {
+    gap: 14px;
+    padding: 0 10px;
+  }
+  footer .footer-links a {
+    font-size: 0.98rem;
+    padding: 6px 12px;
+  }
+  footer .footer-description {
+    font-size: 0.95rem;
+    padding: 0 10px;
+  }
 }
